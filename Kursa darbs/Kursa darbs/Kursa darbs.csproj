@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9E3C671-03A4-4E38-BA85-A373509D8479}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kursa_darbs</RootNamespace>
+    <AssemblyName>Kursa darbs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel.Designer.cs">
+      <DependentUpon>adminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manageEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manageEmployees.Designer.cs">
+      <DependentUpon>manageEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manageInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manageInventory.Designer.cs">
+      <DependentUpon>manageInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manageUsers.Designer.cs">
+      <DependentUpon>manageUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuCLT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuCLT.Designer.cs">
+      <DependentUpon>menuCLT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuSpundetiDeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuSpundetiDeli.Designer.cs">
+      <DependentUpon>menuSpundetiDeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuKSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuKSP.Designer.cs">
+      <DependentUpon>menuKSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuFinieris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuFinieris.Designer.cs">
+      <DependentUpon>menuFinieris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuDeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuDeli.Designer.cs">
+      <DependentUpon>menuDeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuBrusas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuBrusas.Designer.cs">
+      <DependentUpon>menuBrusas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuBalki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuBalki.Designer.cs">
+      <DependentUpon>menuBalki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="adminPanel.resx">
+      <DependentUpon>adminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manageEmployees.resx">
+      <DependentUpon>manageEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manageInventory.resx">
+      <DependentUpon>manageInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manageUsers.resx">
+      <DependentUpon>manageUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuCLT.resx">
+      <DependentUpon>menuCLT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuSpundetiDeli.resx">
+      <DependentUpon>menuSpundetiDeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuKSP.resx">
+      <DependentUpon>menuKSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuFinieris.resx">
+      <DependentUpon>menuFinieris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuDeli.resx">
+      <DependentUpon>menuDeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuBrusas.resx">
+      <DependentUpon>menuBrusas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuBalki.resx">
+      <DependentUpon>menuBalki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\287-2879874_transparent-limitations-png-transparent-background-home-button-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\335-3354019_white-home-button-icon-png-for-kids-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employees.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-mark-xxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-icon-white-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PinClipart.com_employee-clipart_148399.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee-icon-png-22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiple-users-silhouette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\board.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood-board.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood-cabin.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

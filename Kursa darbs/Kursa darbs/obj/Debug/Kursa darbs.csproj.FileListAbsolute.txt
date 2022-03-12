@@ -1,0 +1,23 @@
+C:\Users\ivis3\source\repos\Kursa darbs\bin\Debug\Kursa darbs.exe.config
+C:\Users\ivis3\source\repos\Kursa darbs\bin\Debug\Kursa darbs.exe
+C:\Users\ivis3\source\repos\Kursa darbs\bin\Debug\Kursa darbs.pdb
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa darbs.csproj.AssemblyReference.cache
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.Properties.Resources.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa darbs.csproj.GenerateResource.cache
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa darbs.csproj.CoreCompileInputs.cache
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa darbs.exe
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa darbs.pdb
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.frmLogin.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.frmRegister.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.Menu.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.adminPanel.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.manageInventory.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.manageEmployees.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.manageUsers.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuBalki.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuBrusas.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuDeli.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuCLT.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuSpundetiDeli.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuKSP.resources
+C:\Users\ivis3\source\repos\Kursa darbs\obj\Debug\Kursa_darbs.menuFinieris.resources
