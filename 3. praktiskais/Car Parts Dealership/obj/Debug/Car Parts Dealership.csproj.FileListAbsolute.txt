@@ -1,0 +1,11 @@
+C:\Users\ivis3\source\repos\Car Parts Dealership\bin\Debug\Car Parts Dealership.exe.config
+C:\Users\ivis3\source\repos\Car Parts Dealership\bin\Debug\Car Parts Dealership.exe
+C:\Users\ivis3\source\repos\Car Parts Dealership\bin\Debug\Car Parts Dealership.pdb
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car Parts Dealership.csproj.AssemblyReference.cache
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car_Parts_Dealership.CreateParts.resources
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car_Parts_Dealership.Form1.resources
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car_Parts_Dealership.Properties.Resources.resources
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car Parts Dealership.csproj.GenerateResource.cache
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car Parts Dealership.csproj.CoreCompileInputs.cache
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car Parts Dealership.exe
+C:\Users\ivis3\source\repos\Car Parts Dealership\obj\Debug\Car Parts Dealership.pdb
