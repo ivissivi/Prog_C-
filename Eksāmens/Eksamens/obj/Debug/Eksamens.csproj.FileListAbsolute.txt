@@ -1,0 +1,14 @@
+C:\Users\ivis3\source\repos\Eksamens\bin\Debug\Eksamens.exe.config
+C:\Users\ivis3\source\repos\Eksamens\bin\Debug\Eksamens.exe
+C:\Users\ivis3\source\repos\Eksamens\bin\Debug\Eksamens.pdb
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.csproj.AssemblyReference.cache
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.Form1.resources
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.Properties.Resources.resources
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.csproj.GenerateResource.cache
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.csproj.CoreCompileInputs.cache
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.exe
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.pdb
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.formPasniedzejs.resources
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.studentList.resources
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.courseList.resources
+C:\Users\ivis3\source\repos\Eksamens\obj\Debug\Eksamens.formSeniorStudent.resources
