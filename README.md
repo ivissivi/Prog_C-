@@ -28,3 +28,21 @@ User is able to select the type of timber, location and the amount of stock to e
   <img src="preview/picture6.png?raw=true" />
   <img src="preview/picture7.png?raw=true" />
 </p>
+
+### Employee management
+
+User is also able to add, edit or remove employees from the database.
+
+<p align="center">
+  <img src="preview/picture8.png?raw=true" />
+</p>
+
+### User management
+
+User with admin privileges is also able to remove users from the database.
+
+<p align="center">
+  <img src="preview/picture9.png?raw=true" />
+</p>
+
+
